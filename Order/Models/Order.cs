@@ -1,8 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
-namespace Order.Models
+namespace Orders.Models
 {
    public class Order
     {
